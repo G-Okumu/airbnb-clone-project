@@ -23,3 +23,58 @@
   <li>Develop skills in component-based frontend architecture</li>
   <li>Learn best practices for web application development</li>
 </ol>
+
+## UI/UX Design Planning
+
+### Design Goals
+
+- Deliver a **clean and intuitive interface** that makes it easy for users to browse and book properties.
+- Ensure **responsive design** across devices (mobile, tablet, desktop).
+- Create a **consistent visual hierarchy** and user flow from property discovery to booking confirmation.
+- Focus on **accessibility** and usability standards to improve user experience for all users.
+
+
+### Key Features to Implement
+
+- Property browsing with images, filters, and categories.
+- Detailed property information with reviews and host contact info.
+- Seamless checkout process with confirmation feedback.
+- Navigation system that supports smooth transitions and back-navigation.
+- Mobile-first design approach.
+
+### Primary Pages Overview
+
+<table>
+  <thead>
+    <tr>
+      <th>Page Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Property Listing View</strong></td>
+      <td>Displays a searchable and filterable grid/list of available properties. Includes property name, thumbnail, price, and rating.</td>
+    </tr>
+    <tr>
+      <td><strong>Listing Detailed View</strong></td>
+      <td>Shows expanded details of a selected property, including a full image gallery, amenities, location map, availability, and reviews.</td>
+    </tr>
+    <tr>
+      <td><strong>Simple Checkout View</strong></td>
+      <td>Provides a minimal interface to review booking summary, enter user details, choose payment method, and confirm reservation.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### Why User-Friendly Design Matters
+
+<p>In a booking system, the user interface directly affects trust and conversion. A user-friendly design:</p>
+
+- Reduces confusion and abandonment during booking.
+- Builds confidence in the legitimacy and professionalism of the platform.
+- Enhances user satisfaction, which increases repeat usage and positive referrals.
+- Ensures accessibility for a broader audience, including users with disabilities or on slower networks.
+
