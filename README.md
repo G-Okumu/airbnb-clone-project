@@ -78,3 +78,51 @@
 - Enhances user satisfaction, which increases repeat usage and positive referrals.
 - Ensures accessibility for a broader audience, including users with disabilities or on slower networks.
 
+
+
+
+
+## Figma Design File
+
+Visit the Figma design page [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f) to view the complete mockups.
+
+---
+
+### Color Styles
+
+- **Primary Color:** #FF5A5F – Vibrant Coral Red
+- **Secondary Color:** #008489 – Rich Teal
+- **Background Color:** #FFFFFF – Pure White
+- **Text Color (Primary):** #222222 – Near Black
+- **Text Color (Secondary):** #717171 – Medium Gray
+---
+
+### Typography
+
+- **Font Family:** Inter, sans-serif
+- **Font Weights:**
+  - Light – 300
+  - Regular – 400
+  - Medium – 500
+  - Semi-Bold – 600
+  - Bold – 700
+- **Font Sizes:**
+  - Heading 1: 32px
+  - Heading 2: 24px
+  - Heading 3: 18px
+  - Body Text: 16px
+  - Small Text: 14px
+
+---
+
+### Why Identifying Design Properties Matters
+
+Clearly identifying the design properties of a mockup ensures consistency between the design and the actual implementation. It allows developers to:
+
+- Accurately translate visual elements into code.
+- Maintain brand alignment and cohesive UI across all screens.
+- Save time during development by reducing ambiguity.
+- Enhance accessibility by using appropriate text sizes, colors, and contrast.
+- Create a scalable and reusable design system for future updates.
+
+
