@@ -8,12 +8,12 @@
 ### Tech Stack
 
 <ol>
-<li> ```Frontend```: HTML, CSS, JavaScript (React or similar framework)</li>
-<li> ```Version Control```: Git and GitHub</li>
-<li> ```Design Tools```: Figma for UI/UX design</li>
+<li> ``` Frontend ```: HTML, CSS, JavaScript (React or similar framework)</li>
+<li> ``` Version Control ```: Git and GitHub</li>
+<li> ``` Design Tools ```: Figma for UI/UX design</li>
 </ol>
 
-#### Learning Objectives
+### Learning Objectives
 
 <p>By completing this project, you will:</p>
 <ol>
