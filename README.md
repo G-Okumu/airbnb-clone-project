@@ -230,3 +230,31 @@ Improves team collaboration, productivity, and adherence to Agile principles.
 
 ---
 
+
+## UI Component Patterns
+
+This section outlines the core UI components that will be developed to support a clean, reusable, and scalable design for the AirBnB Clone project.
+
+### Navbar
+- Positioned at the top of the page across all screens.
+- Contains brand logo, navigation links, user account options, and responsive dropdowns.
+- Supports mobile navigation with a collapsible menu (hamburger icon).
+- Stays fixed during scroll for better accessibility.
+
+### Property Card
+- Displays key details about a listed property in a compact card layout.
+- Includes image thumbnail, title, price per night, rating, and location.
+- Clickable to navigate to the detailed view of the property.
+- Designed to be responsive for grid-based or list-based layouts.
+
+### Footer
+- Located at the bottom of all pages.
+- Contains links to essential pages (e.g., About, Contact, Terms).
+- May include social media icons and newsletter signup.
+- Styled with brand colors and supports mobile responsiveness.
+
+---
+
+<i>Additional components such as modals, filter panels, date pickers, and booking forms will be explored as the UI expands. All components will be built with reusability, accessibility, and responsive design principles in mind.</i>
+
+
